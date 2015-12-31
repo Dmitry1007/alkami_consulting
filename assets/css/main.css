@@ -3346,10 +3346,10 @@
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url("../../images/denver_night.jpg");;
-			background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url("../../images/denver_night.jpg");;
-			background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url("../../images/denver_night.jpg");;
-			background-image: linear-gradient(top, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5)), url("../../images/denver_night.jpg");;
+			background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("../../images/denver_night.jpg");;
+			background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("../../images/denver_night.jpg");;
+			background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("../../images/denver_night.jpg");;
+			background-image: linear-gradient(top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("../../images/denver_night.jpg");;
 			background-size: cover;
 			content: '';
 			display: block;
