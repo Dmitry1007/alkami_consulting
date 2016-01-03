@@ -3747,7 +3747,7 @@
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #272833;
+				background: black;
 				box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
 			}
 
@@ -3787,7 +3787,7 @@
 
 					#titleBar .toggle:before {
 						background: #ffd700;
-						color: rgba(255, 255, 255, 0.5);
+						color: black;
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
